@@ -19,9 +19,9 @@ Fine-tune the model on the dataset with labels for subtheme sentiments.
 2.Use Trainer from transformers for training the model with specified hyperparameters.
 ## SetUp
 Prerequisites
-Python 3.6+
-PyTorch
-transformers library
-scikit-learn
-pandas
-numpy
+1.Python 3.6+
+2.PyTorch
+3.transformers library
+4.scikit-learn
+5.pandas
+6.numpy
